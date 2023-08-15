@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.4e7d485a.css",
-    "main.js": "./static/js/main.144b1a04.js",
+    "main.js": "./static/js/main.8b94aad2.js",
     "static/media/BespokeSerif-LightItalic.otf": "./static/media/BespokeSerif-LightItalic.2fef3e7b89a9c8c9a7ac.otf",
     "static/media/Tanker-Regular.otf": "./static/media/Tanker-Regular.4f090956547079d1834b.otf",
     "index.html": "./index.html",
     "main.4e7d485a.css.map": "./static/css/main.4e7d485a.css.map",
-    "main.144b1a04.js.map": "./static/js/main.144b1a04.js.map"
+    "main.8b94aad2.js.map": "./static/js/main.8b94aad2.js.map"
   },
   "entrypoints": [
     "static/css/main.4e7d485a.css",
-    "static/js/main.144b1a04.js"
+    "static/js/main.8b94aad2.js"
   ]
 }
